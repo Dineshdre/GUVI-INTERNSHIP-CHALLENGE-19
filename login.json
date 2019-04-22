@@ -1,0 +1,9 @@
+[
+{"type":"header","version":"4.8.4","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"register"},
+{"type":"table","name":"login","database":"register","data":
+[
+{"email":"rrksdinesh@gmail.com","password":"dinesh99","uname":"","dob":null,"age":"0","contact":"0"}
+]
+}
+]
